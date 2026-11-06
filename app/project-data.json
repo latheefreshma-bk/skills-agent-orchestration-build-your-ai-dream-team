@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Atlas Mobile App",
+      "owner": "Priya Nair",
+      "status": "On Track",
+      "recentActivity": "Beta build 0.9 shipped to internal testers.",
+      "priority": "High",
+      "summary": "Cross-platform mobile app for field teams."
+    },
+    {
+      "name": "Billing Migration",
+      "owner": "Marcus Lee",
+      "status": "At Risk",
+      "recentActivity": "Data reconciliation found 3% mismatched invoices.",
+      "priority": "High",
+      "summary": "Move invoicing to the new payments provider."
+    },
+    {
+      "name": "Partner API Portal",
+      "owner": "Sofia Alvarez",
+      "status": "Blocked",
+      "recentActivity": "Waiting on security review sign-off.",
+      "priority": "Medium",
+      "summary": "Self-service portal for partner API keys and docs."
+    },
+    {
+      "name": "Docs Refresh",
+      "owner": "Tom Becker",
+      "status": "Completed",
+      "recentActivity": "Final style guide changes published.",
+      "priority": "Low",
+      "summary": "Rewrite of the public help center content."
+    },
+    {
+      "name": "Analytics Pipeline",
+      "owner": "Aisha Khan",
+      "status": "On Track",
+      "recentActivity": "Nightly job runtime reduced by 40%.",
+      "priority": "Medium",
+      "summary": "Streamlined event ingestion for weekly reporting."
+    }
+  ]
+}
